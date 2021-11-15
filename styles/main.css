@@ -113,9 +113,10 @@ aside h2 {
     color: #800000;
     font-size: 130%;
     padding-top: .5em;
-    padding-right: .25em;
-    padding-left: .25em;
-    padding-bottom: 0;
+    padding-right: 0;
+    padding-bottom: .25em;
+    padding-left: 0;
+
 }
 aside h3 {
     font-size: 105%;
