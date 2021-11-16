@@ -30,7 +30,7 @@ header h3 {
 }
 header img {
     float: left;
-    padding-top: 0;
+    padding-top: 30px;
     padding-bottom: 30px;
 }
 .shadow {
@@ -83,11 +83,10 @@ section li {
 }
 article {
     padding: .5em 0;
-    border-top: 2px solid #800000;
-    border-bottom: 2px solid #800000;
 }
 article h2 {
     padding-top: 0;
+    color: #800000;
 }
 article h3 {
     font-size: 105%;
@@ -171,7 +170,8 @@ footer {
 footer p {
     text-align: center;
     color: white;
-    padding: 1em 0;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 * {
     margin: 0;
